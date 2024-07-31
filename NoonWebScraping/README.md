@@ -16,7 +16,7 @@ This project scrapes product information from Noon.com and saves the data to CSV
 
     ```sh
     git clone https://github.com/AbanoupRefat/NoonWebScraping.git
-    cd Noon-Web-Scraping
+    cd NoonWebScraping
     ```
 
 2. **Install the required Python packages:**
