@@ -9,11 +9,11 @@ The primary goal of this project is to build a linear regression model that accu
 ## Dataset
 - **Source**: The dataset contains information on customers of an e-commerce platform.
 - **Features**:
-  - `Avg. Session Length`: Average session length with a stylist.
-  - `Time on App`: Time spent on the mobile app.
-  - `Time on Website`: Time spent on the website.
-  - `Length of Membership`: Duration of membership.
-  - `Yearly Amount Spent` (Target): The amount spent by a customer annually.
+Â  - `Avg. Session Length`: Average session length with a stylist.
+Â  - `Time on App`: Time spent on the mobile app.
+Â  - `Time on Website`: Time spent on the website.
+Â  - `Length of Membership`: Duration of membership.
+Â  - `Yearly Amount Spent` (Target): The amount spent by a customer annually.
 
 ## Project Structure
 The project is organized into the following sections:
@@ -32,12 +32,12 @@ The project is organized into the following sections:
 
 ## How to Run the Project
 1. **Requirements**:
-   - Python 3.x
-   - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
+Â  Â - Python 3.x
+Â  Â - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
 2. **Steps**:
-   - Clone the repository: `git clone <repository-url>`
-   - Install the required libraries: `pip install -r requirements.txt`
-   - Run the Jupyter notebook: `jupyter notebook linear_regression_project.ipynb`
+Â  Â - Clone the repository: `git clone <repository-url>`
+Â  Â - Install the required libraries: `pip install -r requirements.txt`
+Â  Â - Run the Jupyter notebook: `jupyter notebook linear_regression_project.ipynb`
 
 ## Future Work
 - **Hyperparameter Tuning**: Explore Ridge and Lasso regression for better performance.
@@ -45,7 +45,7 @@ The project is organized into the following sections:
 - **Cross-Validation**: Implement cross-validation to ensure model robustness.
 
 ## Contributors
-- **Your Name** - Data Analyst, Python Developer
+- **Abanoub Refat** - Data Analyst, Python Developer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
